@@ -1,0 +1,5 @@
+applications:
+ - name: amazing-hoover
+   memory: 256M
+   host: amazing-hoover
+   buildpack: staticfile_buildpack
